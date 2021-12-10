@@ -1,0 +1,9 @@
+C:\Users\Ricardo D.Monkey\source\repos\TempConsole\TempConsole\bin\Debug\TempConsole.exe.config
+C:\Users\Ricardo D.Monkey\source\repos\TempConsole\TempConsole\bin\Debug\TempConsole.exe
+C:\Users\Ricardo D.Monkey\source\repos\TempConsole\TempConsole\bin\Debug\TempConsole.pdb
+C:\Users\Ricardo D.Monkey\source\repos\TempConsole\TempConsole\bin\Debug\PackTemp.dll
+C:\Users\Ricardo D.Monkey\source\repos\TempConsole\TempConsole\obj\Debug\TempConsole.csprojAssemblyReference.cache
+C:\Users\Ricardo D.Monkey\source\repos\TempConsole\TempConsole\obj\Debug\TempConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo D.Monkey\source\repos\TempConsole\TempConsole\obj\Debug\TempConsole.csproj.CopyComplete
+C:\Users\Ricardo D.Monkey\source\repos\TempConsole\TempConsole\obj\Debug\TempConsole.exe
+C:\Users\Ricardo D.Monkey\source\repos\TempConsole\TempConsole\obj\Debug\TempConsole.pdb
